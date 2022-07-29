@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Dates
+permalink: /dates/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+**Important dates for Workshop paper submission:**
+Paper submission deadline: **September 22, 2022**
+Notification of acceptance: **October 14, 2022**
+Workshop: **December 3, 2022**
