@@ -28,10 +28,10 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
-          "url": "https://gaze-meets-ml.github.io/gaze_ml_2022/about/",
-          "relUrl": "/about/",
+          "title": "Dates",
+          "content": "Important dates for Workshop paper submission: Paper submission deadline: September 22, 2022 Notification of acceptance: October 14, 2022 Workshop: December 3, 2022 .",
+          "url": "https://gaze-meets-ml.github.io/gaze_ml_2022/dates/",
+          "relUrl": "/dates/",
           "date": ""
       }
       
