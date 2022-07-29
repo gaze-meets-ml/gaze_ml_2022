@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title:  NeurIPS 2022 Gaze Meets ML Workshop 
-description: 𝗚𝗮𝘇𝗲 𝗠𝗲𝗲𝘁𝘀 𝗠𝗟 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽✨bridging human and machine attention
+description: Bridging human and machine attention
 github_username: gaze-meets-ml
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "gaze_ml_2022"
@@ -39,8 +39,8 @@ baseurl: "/gaze_ml_2022" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: gaze-meets-ml
+    #github: fastai
 
 # Set this to true to get LaTeX math equation support
 use_math: 
