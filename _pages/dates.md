@@ -2,8 +2,8 @@
 layout: page
 title: Dates
 permalink: /dates/
+hide: true
 ---
-
 **Important dates for Workshop paper submission:**
 
 Paper submission deadline: **September 22, 2022**
