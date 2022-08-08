@@ -51,14 +51,14 @@ Topics of interest include but are not limited to the following:
 
 
 <!-- Important Dates -->
-<h1>Important Dates for the Workshop</h1>
-<ul>Submission due: <b>1st October 2022, 23:59 Anywhere on Earth</b></ul>
+<h1>Important Dates</h1>
+<ul>Submission due: <b>1st October 2022</b></ul>
 <ul>Reviewing starts: <b>4th October 2022</b></ul>
 <ul>Reviewing ends: <b>16th October 2022</b></ul>
 <ul>Notification of acceptance: <b>20th October 2022</b> </ul>
-<ul>Video upload: <b>1st November 2022</b></ul>
-<ul>Camera Ready: <b>5th November 2022</b></ul>
-
+<!-- <ul>Video upload: <b>1st November 2022</b></ul> -->
+<ul>Camera ready: <b>5th November 2022</b></ul>
+All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 <h1>Submissions</h1>
 <ul>
