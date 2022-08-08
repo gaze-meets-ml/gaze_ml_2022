@@ -93,8 +93,6 @@ We’ve got an amazing lineup of speakers:
 <h1>Organizers</h1>
 
 
-<h1>FAQs</h1>
-
 <h1></h1>
 <!-- 
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
