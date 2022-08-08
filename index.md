@@ -6,7 +6,9 @@ toc: true
 navigation_weight: 1
 ---
 
-<h2>We are excited to host the first-ever Gaze Meets ML workshop in conjunction with Neurips 2022</h2>
+We are excited to host the first-ever Gaze Meets ML workshop in conjunction with Neurips 2022. 
+We’ve got an [amazing lineup of speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/)
+
 
 <!-- Heading -->
 <h1>About</h1>
@@ -86,9 +88,6 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
     </li>
 </ul>
 
-
-<h1>Speakers</h1>
-We’ve got an amazing lineup of speakers:
 
 <h1>Organizers</h1>
 <ul>
