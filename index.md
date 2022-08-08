@@ -7,8 +7,10 @@ navigation_weight: 1
 ---
 
 We are excited to host the first-ever Gaze Meets ML workshop in conjunction with Neurips 2022. 
+
 We’ve got an [amazing lineup of speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/)!
 
+<b>If you are interested in sponsoring the Gaze Meets ML Neurips workshop</b>, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a>.
 
 <!-- Heading -->
 <h1>About</h1>
@@ -29,8 +31,6 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
-<b>If you are interested in sponsoring the Gaze Meets ML Neurips workshop</b>, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a>.
-
 <h1> Call for Papers</h1>
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, propose methods on integrating eye gaze into machine learning, and application domains from radiology, AR/VR,
@@ -49,7 +49,6 @@ Topics of interest include but are not limited to the following:
     <li>Eye gaze used for AI, e.g., NLP, Computer Vision, RL, Explainable AI, Embodied AI, Trustworthy AI.</li>
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
-
 
 <!-- Important Dates -->
 <h1>Important Dates</h1>
