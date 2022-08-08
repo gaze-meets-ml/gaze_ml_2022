@@ -91,9 +91,17 @@ Topics of interest include but are not limited to the following:
 We’ve got an amazing lineup of speakers:
 
 <h1>Organizers</h1>
+<ul>
+<li> Ismini Lourentzou (Virginia Tech) </li>
+<li> Joy Tzung-yu Wu (Stanford, IBM Research) </li>
+<li> Satyananda Kashyap (IBM Research)</li>
+<li> Alexandros Karargyris (IHU Strasbourg)</li>
+<li> Leo Antony Celi (MIT)</li>
+<li> Ban Kawas (Meta, Reality Labs Research)</li>
+<li> Sachin Talathi (Meta, Reality Labs Research)</li>
+ </ul>
 
 
-<h1></h1>
 <!-- 
 This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
 
