@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQs
+# title: FAQs
 permalink: /faq/
 hide: true
 ---
