@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 title: Speakers
+toc: true
 permalink: /speakers/
 ---
 
