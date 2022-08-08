@@ -6,7 +6,7 @@ toc: true
 navigation_weight: 1
 ---
 
-<h2>We are excited to host the first ever Gaze Meets ML workshop in conjunction with Neurips 2022</h2>
+<h2>We are excited to host the first-ever Gaze Meets ML workshop in conjunction with Neurips 2022</h2>
 
 <!-- Heading -->
 <h1>About</h1>
@@ -91,6 +91,7 @@ Topics of interest include but are not limited to the following:
 We’ve got an amazing lineup of speakers:
 
 <h1>Organizers</h1>
+
 
 <h1>FAQs</h1>
 
