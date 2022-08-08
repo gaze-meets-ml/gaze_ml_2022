@@ -403,7 +403,9 @@ h1:hover .anchor-link, h2:hover .anchor-link, h3:hover .anchor-link, h4:hover .a
 
 table { white-space: normal; max-width: 100%; font-size: 100%; border: none; }
 
-table th { text-align: justify; }
+table th { background-color: white; text-align: justify; }
+
+table td { border: none; text-align: justify; background-color: white; }
 
 ::-webkit-scrollbar { width: 14px; height: 18px; }
 
