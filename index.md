@@ -5,7 +5,7 @@ image: images/eye-gaze-logo.png
 toc: true
 navigation_weight: 1
 ---
-We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on December 3rd, 2022 in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
+We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
 # About
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
