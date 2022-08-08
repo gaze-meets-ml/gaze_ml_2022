@@ -203,9 +203,16 @@ table {
   font-size: 100%;
   border:none;
   th{
+    background-color: white;
     text-align: justify;
   }
+  td {
+    border: none;
+    text-align: justify;
+    background-color: white;
+  }
 }
+        
 
 // customize scrollbars
 ::-webkit-scrollbar {
