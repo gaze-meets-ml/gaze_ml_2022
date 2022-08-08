@@ -6,14 +6,9 @@ toc: true
 navigation_weight: 1
 ---
 
-We are excited to host the first-ever Gaze Meets ML workshop in conjunction with Neurips 2022. 
+We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop in conjunction with NeurIPS 2022. We’ve got an amazing lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/)! <b>If you are interested in sponsoring the Gaze Meets ML Neurips workshop, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
-We’ve got an [amazing lineup of speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/)!
-
-<b>If you are interested in sponsoring the Gaze Meets ML Neurips workshop</b>, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a>.
-
-<!-- Heading -->
-<h1>About</h1>
+# About
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
 human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains Physiological data (including but not limited to eye gaze) offer new
@@ -31,7 +26,7 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
-<h1> Call for Papers</h1>
+# Call for Papers
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, propose methods on integrating eye gaze into machine learning, and application domains from radiology, AR/VR,
 autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains.
@@ -50,8 +45,7 @@ Topics of interest include but are not limited to the following:
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
 
-<!-- Important Dates -->
-<h1>Important Dates</h1>
+# Important Dates
 <ul>Submission due: <b>1st October 2022</b></ul>
 <ul>Reviewing starts: <b>4th October 2022</b></ul>
 <ul>Reviewing ends: <b>16th October 2022</b></ul>
@@ -60,7 +54,7 @@ Topics of interest include but are not limited to the following:
 <ul>Camera ready: <b>5th November 2022</b></ul>
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
-<h1>Submissions</h1>
+# Submissions
 <ul>
     <li><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GMML">Open Review Submission Portal</a></li>
     <li> Submission format: anonymously submit full papers (8 or 9 pages) using:
@@ -87,7 +81,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 </ul>
 
 
-<h1>Organizers</h1>
+# Organizers
 <ul>
 <li> Ismini Lourentzou (Virginia Tech) </li>
 <li> Joy Tzung-yu Wu (Stanford, IBM Research) </li>
@@ -98,14 +92,3 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <li> Sachin Talathi (Meta, Reality Labs Research)</li>
  </ul>
 
-
-<!-- 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
-
-![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
-
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
-
-You can edit the `index.html` file to change this content.
-
-<!-- # Posts -->
