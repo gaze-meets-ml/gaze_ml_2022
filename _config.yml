@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title:  NeurIPS 2022 Gaze Meets ML Workshop 
+title:  NeurIPS 2022 <span style="color:MediumSeaGreen">Gaze Meets ML</span> Workshop 
 description: Bridging human and machine attention
 github_username: gaze-meets-ml
 # you can comment the below line out if your repo name is not different than your baseurl
