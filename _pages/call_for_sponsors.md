@@ -38,11 +38,11 @@ The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 
 
 # Sponsorship Levels
 
-We have Bronze, Silver, Gold, and Platinum levels. 
+We have Silver, Gold, and Platinum levels. 
 
 - **Silver:** Acknowledgment
 - **Gold:** Acknowledgment + Promotional Material
 - **Platinum:** Acknowledgment + Promotional Material + Sponsored Lighting Talk
 
 
-If you are interested in sponsoring the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop or would like more information, please reach out to gaze.neurips@gmail.com
+If you are interested in sponsoring the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop or would like more information, please reach out to <span style="color:MediumBlue">gaze.neurips@gmail.com</span>
