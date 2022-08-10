@@ -88,7 +88,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <li> Joy Tzung-yu Wu (Stanford, IBM Research) </li>
 <li> Satyananda Kashyap (IBM Research)</li>
 <li> Alexandros Karargyris (IHU Strasbourg)</li>
-<li> Leo Antony Celi (MIT)</li>
+<li> [Leo Antony Celi](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) (MIT)</li>
 <li> Ban Kawas (Meta, Reality Labs Research)</li>
 <li> Sachin Talathi (Meta, Reality Labs Research)</li>
  </ul>
