@@ -7,7 +7,7 @@ navigation_weight: 1
 ---
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
-<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="3000"/> 
+<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="100"/> 
 
 # About
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
@@ -84,7 +84,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 # Organizers
 <ul>
-<li> Ismini Lourentzou (Virginia Tech) </li>
+<li> <a href=https://isminoula.github.io"> Ismini Lourentzou</a> (Virginia Tech)</li>
 <li> Joy Tzung-yu Wu (Stanford, IBM Research) </li>
 <li> Satyananda Kashyap (IBM Research)</li>
 <li> Alexandros Karargyris (IHU Strasbourg)</li>
