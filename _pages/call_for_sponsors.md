@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Call For Sponsors
 permalink: /call_for_sponsors/
 ---
@@ -38,17 +38,11 @@ The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 
 
 # Sponsorship Levels
 
-
 We have Bronze, Silver, Gold, and Platinum levels. 
 
-
-    *Silver:* Acknowledgment
-
-
-    *Gold:* Acknowledgment + Promotional Material
-
-
-    *Platinum:* Acknowledgment + Promotional Material + Sponsored Lighting Talk
+- **Silver:** Acknowledgment
+- **Gold:** Acknowledgment + Promotional Material
+- **Platinum:** Acknowledgment + Promotional Material + Sponsored Lighting Talk
 
 
 If you are interested in sponsoring the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop or would like more information, please reach out to gaze.neurips@gmail.com
