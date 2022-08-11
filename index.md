@@ -87,7 +87,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Eckstein_Miguel_cropped.jpg" width="200"/>](speakers#eckstein) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Tobias_Gerstenberg_cropped.jpg" width="200"/>](speakers#gerstenberg) |  
 | :-: | :-: |
-| [**Miguel P. Eckstein, Ph.D.**](speakers#linderman) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#silva) | 
+| [**Miguel P. Eckstein, Ph.D.**](speakers#eckstein) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#gerstenberg) | 
 
 # Organizers
 <ul>
