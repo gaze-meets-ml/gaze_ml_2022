@@ -9,7 +9,7 @@ We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Me
 
 # Table of Contents
 
-1. [About] (#about)
+1. [About](#about)
 2. [Call for Papers](#call-for-papers)
 3. [Important Dates](#important-dates)
 4. [Submissions](#submissions)
