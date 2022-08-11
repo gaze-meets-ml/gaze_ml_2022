@@ -100,3 +100,18 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <li> <a href="https://www.linkedin.com/in/sachin-t-0b8b608/">Sachin Talathi</a> (Meta, Reality Labs Research)</li>
  </ul>
 
+# Program Committee
+<ul>
+<li> Prasanth Shah (Intel) </li>
+<li> Sameer Antani (NIH) </li>
+<li> Georgios Exarchakis (IHU) </li>
+<li> Henning Muller (HES-SO) </li>
+<li> Maria Xenochristou (Stanford) </li>
+<li> Spyros Bakas (UPenn) </li>
+<li> Dakuo Wang (IBM Research) </li>
+<li> Brendan David-John (Virginia Tech) </li> 
+<li> Hoda Eldardiry (Virginia Tech) </li> 
+<li> Daniel Gruhl (IBM Research) </li>
+<li> Anna Lisa Gentile (IBM Research) </li>
+<li> Dario Zanca (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
+</ul>
