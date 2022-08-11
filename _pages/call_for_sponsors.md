@@ -4,7 +4,7 @@ title: Call For Sponsors
 permalink: /call_for_sponsors/
 ---
 
-# Sponsorship Areas
+## Sponsorship Areas
 
 Currently, we are looking for sponsors for the following areas:
 
@@ -21,7 +21,7 @@ Currently, we are looking for sponsors for the following areas:
 - **Support for the Invited Speakers**: We have an amazing lineup of experts at the intersection of machine learning, neuroscience, psychology and eye gaze. We are looking to provide support for conference registration and, if possible, a small honorarium and partial coverage of travel costs.
 
 
-# Benefits
+## Benefits
 
 The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 2022 comes with several benefits for sponsor partners:
 
@@ -36,7 +36,7 @@ The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 
 
 
 
-# Sponsorship Levels
+## Sponsorship Levels
 
 We have Silver, Gold, and Platinum levels. 
 
