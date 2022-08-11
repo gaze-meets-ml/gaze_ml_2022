@@ -7,7 +7,16 @@ navigation_weight: 1
 ---
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
-# About <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="75"/>  
+# Table of Contents
+1. [About] (#about)
+2. [Call for Papers] (#call)
+3. [Important Dates] (#dates)
+4. [Submissions] (#submissions)
+5. [Speakers] (#invited_speakers)
+6. [Organizers] (#organizers)
+7. [Program Committee] (#program_committee)
+
+# About <a name="about"></a> <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="75"/>  
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
 human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
@@ -25,7 +34,7 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
-# Call for Papers
+# Call for Papers <a name="call"></a>
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, or propose methods on integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
 autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains.
@@ -44,7 +53,7 @@ Topics of interest include but are not limited to the following:
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
 
-# Important Dates
+# Important Dates <a name="dates"></a>
 <ul>Submission due: <b>1st October 2022</b></ul>
 <ul>Reviewing starts: <b>4th October 2022</b></ul>
 <ul>Reviewing ends: <b>16th October 2022</b></ul>
@@ -53,7 +62,7 @@ Topics of interest include but are not limited to the following:
 <ul>Camera ready: <b>5th November 2022</b></ul>
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
-# Submissions
+# Submissions <a name="submissions"></a>
 <ul>
     <li><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GMML">Open Review Submission Portal</a></li>
     <li> Submission format: anonymously submit full papers (8 or 9 pages) using:
@@ -79,7 +88,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
     </li>
 </ul>
 
-# Speakers
+# Speakers <a name="invited_speakers"></a>
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Scott_Linderman_cropped.jpg" width="200"/>](speakers#linderman) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Gabriel_Silva_cropped.jpg" width="200"/>](speakers#silva) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Claudia-Mello-Thoms_cropped.jpg" width="200"/>](speakers#mellothoms) |   
 | :-: | :-: | :-: |
@@ -91,7 +100,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 | [**Miguel P. Eckstein, Ph.D.**](speakers#eckstein) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#gerstenberg) | 
 | **UC Santa Barbara** | **Stanford** |
 
-# Organizers
+# Organizers <a name="organizers"></a>
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ismini_Lourentzou_cropped.png" width="200"/>](https://isminoula.github.io) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Joy_Wu_cropped.png" width="200"/>](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Satyananda_Kashyap_cropped.png" width="200"/>](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Alexandros_Karargyris_cropped.png" width="200"/>](https://www.linkedin.com/in/alexandroskarargyris/) |
 | :-: | :-: | :-: | :-: |
@@ -104,7 +113,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 | **MIT** | **Meta, Reality Labs Research** | **Meta, Reality Labs Research** |
 
 
-# Program Committee
+# Program Committee <a name="program_committee"></a>
 <ul>
 <li> Prasanth Shah (Intel) </li>
 <li> Sameer Antani (NIH) </li>
