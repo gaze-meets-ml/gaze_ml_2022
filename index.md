@@ -83,8 +83,11 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Scott_Linderman_cropped.jpg" width="200"/>](speakers#linderman) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Gabriel_Silva_cropped.jpg" width="200"/>](speakers#silva) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Claudia-Mello-Thoms_cropped.jpg" width="200"/>](speakers#mellothoms) |   
 | :-: | :-: | :-: |
-| [**Scott W. Linderman, Ph.D.**](speakers#linderman) | [**Gabriel A. Silva, Ph.D.**](speakers#silva) | [**Claudia Mello-Thoms, Ph.D.**](speakers#mellothoms) |
+| [**Scott W. Linderman, Ph.D.**](speakers#linderman) | [**Gabriel A. Silva, Ph.D.**](speakers#silva) | [**Claudia Mello-Thoms, MS, Ph.D.**](speakers#mellothoms) |
 
+| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Eckstein_Miguel_cropped.jpg" width="200"/>](speakers#eckstein) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Tobias_Gerstenberg_cropped.jpg" width="200"/>](speakers#gerstenberg) |  
+| :-: | :-: |
+| [**Miguel P. Eckstein, Ph.D.**](speakers#linderman) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#silva) | 
 
 # Organizers
 <ul>
