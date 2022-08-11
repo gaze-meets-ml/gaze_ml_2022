@@ -83,7 +83,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
  
 | --- | --- | --- |
 | <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Scott_Linderman_cropped.jpg" width="200"/> | <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Gabriel_Silva_cropped.jpg" width="200"/> | <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Claudia-Mello-Thoms_cropped.jpg" width="200"/> |    
-| *Scott W. Linderman*, Ph.D. | *Gabriel A. Silva*, Ph.D.| *Claudia Mello-Thoms* |
+| *Scott W. Linderman, Ph.D.* | *Gabriel A. Silva, Ph.D.* | *Claudia Mello-Thoms, Ph.D.* |
     
 
 # Organizers
