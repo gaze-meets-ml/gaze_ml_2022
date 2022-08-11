@@ -92,6 +92,12 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 | **UC Santa Barbara** | **Stanford** |
 
 # Organizers
+
+| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ismini_Lourentzou_cropped.png" width="150"/>](https://isminoula.github.io) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Joy_Wu_cropped.png" width="200"/>](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Satyananda_Kashyap_cropped.png" width="200"/>](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Alexandros_Karargyris_cropped.png" width="200"/>](https://www.linkedin.com/in/alexandroskarargyris/) |
+| :-: | :-: | :-: | :-: |
+| [**Ismini Lourentzou, Ph.D.**](https://isminoula.github.io) | [**Joy Tzung-yu Wu, MD, MPH.**](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [**Satyananda Kashyap, Ph.D.**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [**Alexandros Karargyris, Ph.D.**](https://www.linkedin.com/in/alexandroskarargyris/) |
+| **Virginia Tech** | **Stanford, IBM Research** | **IBM Research** | **IHU Strasbourg** |
+
 <ul>
 <li> <a href="https://isminoula.github.io">Ismini Lourentzou</a> (Virginia Tech)</li>
 <li> <a href="https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en">Joy Tzung-yu Wu</a> (Stanford, IBM Research) </li>
