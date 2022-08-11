@@ -7,9 +7,7 @@ navigation_weight: 1
 ---
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
-<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="100"/> 
-
-# About
+# About  <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="100"/> 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
 human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
@@ -84,12 +82,12 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 # Organizers
 <ul>
-<li> <a href=https://isminoula.github.io"> Ismini Lourentzou</a> (Virginia Tech)</li>
-<li> Joy Tzung-yu Wu (Stanford, IBM Research) </li>
-<li> Satyananda Kashyap (IBM Research)</li>
-<li> Alexandros Karargyris (IHU Strasbourg)</li>
+<li> <a href="https://isminoula.github.io">Ismini Lourentzou</a> (Virginia Tech)</li>
+<li> <a href="https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en">Joy Tzung-yu Wu</a> (Stanford, IBM Research) </li>
+<li> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap">Satyananda Kashyap</a> (IBM Research)</li>
+<li> <a href="https://www.linkedin.com/in/alexandroskarargyris/">Alexandros Karargyris</a> (IHU Strasbourg)</li>
 <li> <a href="https://imes.mit.edu/research-staff-prof/leo-anthony-celi/">Leo Antony Celi</a> (MIT)</li>
-<li> Ban Kawas (Meta, Reality Labs Research)</li>
-<li> Sachin Talathi (Meta, Reality Labs Research)</li>
+<li> <a href="https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas">Ban Kawas</a> (Meta, Reality Labs Research)</li>
+<li> <a href="https://www.linkedin.com/in/sachin-t-0b8b608/">Sachin Talathi</a> (Meta, Reality Labs Research)</li>
  </ul>
 
