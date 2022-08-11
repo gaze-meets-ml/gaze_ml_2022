@@ -10,12 +10,12 @@ We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Me
 # Table of Contents
 
 1. [About](#about)
-2. [Call for Papers](#call-for-papers)
-3. [Important Dates](#important-dates)
+2. [Call for Papers](#call)
+3. [Important Dates](#dates)
 4. [Submissions](#submissions)
-5. [Speakers](#speakers)
+5. [Speakers](#invited_speakers)
 6. [Organizers](#organizers)
-7. [Program Committee](#program-committee)
+7. [Program Committee](#program_committee)
 
 # About <a name="about"></a> <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="75"/>  
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
