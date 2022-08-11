@@ -88,30 +88,21 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Eckstein_Miguel_cropped.jpg" width="200"/>](speakers#eckstein) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Tobias_Gerstenberg_cropped.jpg" width="200"/>](speakers#gerstenberg) |  
 | :-: | :-: |
-| [**Miguel P. Eckstein, Ph.D.**](speakers#eckstein) | [**Tobias Gerstenberg, MSc,Ph.D.**](speakers#gerstenberg) | 
+| [**Miguel P. Eckstein, Ph.D.**](speakers#eckstein) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#gerstenberg) | 
 | **UC Santa Barbara** | **Stanford** |
 
 # Organizers
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ismini_Lourentzou_cropped.png" width="200"/>](https://isminoula.github.io) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Joy_Wu_cropped.png" width="200"/>](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Satyananda_Kashyap_cropped.png" width="200"/>](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Alexandros_Karargyris_cropped.png" width="200"/>](https://www.linkedin.com/in/alexandroskarargyris/) |
 | :-: | :-: | :-: | :-: |
-| [**Ismini Lourentzou, Ph.D.**](https://isminoula.github.io) | [**Joy Tzung-yu Wu, MD,MPH.**](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [**Satyananda Kashyap, Ph.D.**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [**Alexandros Karargyris, Ph.D.**](https://www.linkedin.com/in/alexandroskarargyris/) |
+| [**Ismini Lourentzou, Ph.D.**](https://isminoula.github.io) | [**Joy Tzung-yu Wu, MD, MPH.**](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [**Satyananda Kashyap, Ph.D.**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [**Alexandros Karargyris, Ph.D.**](https://www.linkedin.com/in/alexandroskarargyris/) |
 | **Virginia Tech** | **Stanford, IBM Research** | **IBM Research** | **IHU Strasbourg** |
 
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Leo_A_Celi_cropped.png" width="200"/>](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ban_Kawas_cropped.png" width="200"/>](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Sachin_Talathi_cropped.png" width="200"/>](https://www.linkedin.com/in/sachin-t-0b8b608/) |   
+| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Leo_A_Celi_cropped.png" width="180"/>](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ban_Kawas_cropped.png" width="180"/>](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Sachin_Talathi_cropped.png" width="180"/>](https://www.linkedin.com/in/sachin-t-0b8b608/) |   
 | :-: | :-: | :-: |
-| [**Leo Antony Celi, MD,MSc,MPH**](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [**Ban Kawas, Ph.D.**](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [**Sachin Talathi, Ph.D.**](https://www.linkedin.com/in/sachin-t-0b8b608/) |
+| [**Leo Antony Celi, MD, MSc, MPH**](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [**Ban Kawas, Ph.D.**](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [**Sachin Talathi, Ph.D.**](https://www.linkedin.com/in/sachin-t-0b8b608/) |
 | **MIT** | **Meta, Reality Labs Research** | **Meta, Reality Labs Research** |
 
-<ul>
-<li> <a href="https://isminoula.github.io">Ismini Lourentzou</a> (Virginia Tech)</li>
-<li> <a href="https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en">Joy Tzung-yu Wu</a> (Stanford, IBM Research) </li>
-<li> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap">Satyananda Kashyap</a> (IBM Research)</li>
-<li> <a href="https://www.linkedin.com/in/alexandroskarargyris/">Alexandros Karargyris</a> (IHU Strasbourg)</li>
-<li> <a href="https://imes.mit.edu/research-staff-prof/leo-anthony-celi/">Leo Antony Celi</a> (MIT)</li>
-<li> <a href="https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas">Ban Kawas</a> (Meta, Reality Labs Research)</li>
-<li> <a href="https://www.linkedin.com/in/sachin-t-0b8b608/">Sachin Talathi</a> (Meta, Reality Labs Research)</li>
- </ul>
 
 # Program Committee
 <ul>
