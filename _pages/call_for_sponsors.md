@@ -21,6 +21,7 @@ Currently, we are looking for sponsors for the following areas:
 - **Support for the Invited Speakers**: We have an amazing lineup of experts at the intersection of machine learning, neuroscience, psychology and eye gaze. We are looking to provide support for conference registration and, if possible, a small honorarium and partial coverage of travel costs.
 
 
+
 ## Benefits
 
 The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 2022 comes with several benefits for sponsor partners:
@@ -40,8 +41,11 @@ The <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop at NeurIPS 
 
 We have Silver, Gold, and Platinum levels. 
 
+
 - **Silver:** Acknowledgment
+
 - **Gold:** Acknowledgment + Promotional Material
+
 - **Platinum:** Acknowledgment + Promotional Material + Sponsored Lighting Talk
 
 
