@@ -110,7 +110,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Leo_A_Celi_cropped.png" width="190"/>](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Ban_Kawas_cropped.png" width="190"/>](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Sachin_Talathi_cropped.png" width="190"/>](https://www.linkedin.com/in/sachin-t-0b8b608/) |   
 | :-: | :-: | :-: |
-| [**Leo Antony Celi, MD, MSc, MPH**](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [**Ban Kawas, Ph.D.**](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [**Sachin Talathi, Ph.D.**](https://www.linkedin.com/in/sachin-t-0b8b608/) |
+| [**Leo Anthony Celi, MD, MSc, MPH**](https://imes.mit.edu/research-staff-prof/leo-anthony-celi/) | [**Ban Kawas, Ph.D.**](https://www.re-work.co/events/trusted-ai-summit-2022/speakers/ban-kawas) | [**Sachin Talathi, Ph.D.**](https://www.linkedin.com/in/sachin-t-0b8b608/) |
 | **MIT** | **Meta, Reality Labs Research** | **Meta, Reality Labs Research** |
 
 
