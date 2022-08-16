@@ -129,3 +129,5 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <li> Anna Lisa Gentile (IBM Research) </li>
 <li> Dario Zanca (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 </ul>
+
+Workshop logo designed by Michael Chung
