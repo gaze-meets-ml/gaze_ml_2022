@@ -5,6 +5,11 @@ image: /images/eye-gaze-large.png
 toc: true
 navigation_weight: 1
 ---
+
+<p align="center" width="100%">
+    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png"> 
+</p>
+
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
 # Table of Contents
@@ -17,7 +22,7 @@ We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Me
 6. [Organizers](#organizers)
 7. [Program Committee](#program_committee)
 
-# About <a name="about"></a> <img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png" width="75"/>  
+# About <a name="about"></a> 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
 human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
