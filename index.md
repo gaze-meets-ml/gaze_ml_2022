@@ -123,6 +123,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <ul>
 <li> Prasanth Shah (Intel) </li>
 <li> Sameer Antani (NIH) </li>
+<li> Sema Candemir (Eskişehir Technical University) </li>
 <li> Georgios Exarchakis (IHU) </li>
 <li> Henning Muller (HES-SO) </li>
 <li> Maria Xenochristou (Stanford) </li>
