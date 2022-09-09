@@ -12,17 +12,8 @@ navigation_weight: 1
 
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. **The workshop will take place in-person at New Orleans!** We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). <b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
-# Table of Contents
 
-1. [About](#about)
-2. [Call for Papers](#call)
-3. [Important Dates](#dates)
-4. [Submissions](#submissions)
-5. [Speakers](#invited_speakers)
-6. [Organizers](#organizers)
-7. [Program Committee](#program_committee)
-
-# About <a name="about"></a> 
+# About
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
 human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
@@ -40,7 +31,7 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
-# Call for Papers <a name="call"></a>
+# Call for Papers 
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, or propose methods on integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
 autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains.
@@ -59,7 +50,7 @@ Topics of interest include but are not limited to the following:
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
 
-# Important Dates <a name="dates"></a>
+# Important Dates 
 <ul>Submission due: <b>22nd September 2022</b></ul>
 <ul>Reviewing starts: <b>26th September 2022</b></ul>
 <ul>Reviewing ends: <b>10th October 2022</b></ul>
@@ -68,7 +59,7 @@ Topics of interest include but are not limited to the following:
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 
-# Submissions <a name="submissions"></a>
+# Submissions 
 <ul>
     <li><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GMML">Open Review Submission Portal</a></li>
     <li> Submission format: anonymously submit full papers (8 or 9 pages) using:
