@@ -11,15 +11,15 @@ We are excited to have the following organizations sponsor our workshop:
 </p>
 
 <a href="https://about.facebook.com/">
-    <p align="center" width="75%">
-        <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/Meta_lockup_positive primary_RGB.png"> 
-    </p>
+    <!-- <p align="center" width="75%"> -->
+    <img width="75%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/Meta_lockup_positive primary_RGB.png"> 
+    <!-- </p> -->
 </a>
 
 <a href="https://www.gazept.com/">
-    <p align="center" width="75%">
-        <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/gazepoint-logo.png"> 
-    </p>
+    <!-- <p align="center" width="75%"> -->
+        <img width="75%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/gazepoint-logo.png"> 
+    <!-- </p> -->
 </a>
 
 
@@ -33,7 +33,7 @@ We are excited to have the following organizations sponsor our workshop:
 </p>
 
 <a href="https://cs.vt.edu/">
-    <p align="center" width="100%">
+    <!-- <p align="center" width="100%"> -->
         <img width="50%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/vt-logo.png"> 
-    </p>
+    <!-- </p> -->
 </a>
