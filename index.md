@@ -127,4 +127,9 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 <li> Dario Zanca (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 </ul>
 
+We are a MICCAI endorsed event: 
+<p align="left" width="100%">
+    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/miccai-logo.jpg"> 
+</p>
+
 Workshop logo designed by Michael Chung
