@@ -68,7 +68,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 # Submissions 
 We have two tracks for submission a full, archival proceedings track and a non-archival, extended abstract track. Submissions to either track will undergo the same double-blind peer review.
 
-Full Accepted papers will be published as proceedings in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can be up to 9 pages and extended abstract papers can be upto 4 pages (excluding references and appendicies).
+Full Accepted papers will be published as proceedings in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can be up to 9 pages and extended abstract papers can be up to 4 pages (excluding references and appendices).
 
 Papers that are submitted to Gaze Meets ML proceedings track cannot be already published or under review in any other archival venue. 
 
