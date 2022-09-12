@@ -12,9 +12,7 @@ navigation_weight: 1
 
 We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. **The workshop will take place in-person at New Orleans!** We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). 
 
-<b>We would like to thank our <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/sponsors/">sponsors</a> for their support</b>
-
-<b>If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
+<b>We would like to thank our <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/sponsors/">sponsors</a> for their support. If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
 
 # About
@@ -66,18 +64,11 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 
 # Submissions 
-We have two tracks for submission a full, archival proceedings track and a non-archival, extended abstract track. Submissions to either track will undergo the same double-blind peer review.
-
-Full Accepted papers will be published as proceedings in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can be up to 9 pages and extended abstract papers can be up to 4 pages (excluding references and appendices).
-
-Papers that are submitted to Gaze Meets ML proceedings track cannot be already published or under review in any other archival venue. 
-
-Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to Gaze Meets ML does not preclude publication of the same material in another archival venue (e.g. journal or conference).
-
+The workshop will feature two tracks for submission: a full, archival proceedings track with accepted papers published in the **[Proceedings for Machine Learning Research (PMLR)](https://proceedings.mlr.press/)** and a non-archival, extended abstract track. Submissions to either track will undergo the same double-blind peer review. Full proceedings papers can be up to 9 pages and extended abstract papers can be up to 4 pages (both excluding references and appendices). Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to Gaze Meets ML does not preclude publication of the same material in another archival venue (e.g., journal or conference).
 
 <ul>
     <li><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GMML">Open Review Submission Portal</a></li>
-    <li> Submission format: anonymously submit full papers (8 or 9 pages) using:
+    <li> Submission templates:
         <ul>
             <li><a href="https://media.neurips.cc/Conferences/NeurIPS2022/Styles/neurips_2022.tex">neurips_2022.tex --
                     LaTeX
@@ -142,6 +133,7 @@ Authors of accepted extended abstracts (non-archival submissions) retain full co
 <li> Dario Zanca (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 </ul>
 
+# Endorsements & Acknowledgements
 We are a MICCAI endorsed event: 
 <p align="left" width="100%">
     <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/miccai-logo.jpg"> 
