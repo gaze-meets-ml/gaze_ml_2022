@@ -10,7 +10,7 @@ We are excited to have the following organizations sponsor our workshop:
     <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/platinum.png"> 
 </p>
 
-[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/Meta_lockup_positive_primary_RGB.png" width="400"/>](https://about.facebook.com/)  [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/gazepoint-logo.png" width="400"/>](https://www.gazept.com/)
+[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/Meta_lockup_positive_primary_RGB.svg" width="400"/>](https://about.facebook.com/)  [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/gazepoint-logo.png" width="400"/>](https://www.gazept.com/)
 
 <!-- <a href="https://about.facebook.com/">
 <p align="center" width="100%">
