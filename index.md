@@ -38,7 +38,8 @@ gaze-assisted machine learning.
 # Call for Papers 
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, or propose methods on integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
-autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains.
+autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains. 
+
 Topics of interest include but are not limited to the following:
 <ul>
     <li>Understanding the neuroscience of eye-gaze and perception.</li>
@@ -51,6 +52,7 @@ Topics of interest include but are not limited to the following:
     <li>Using saccadic vision for ML applications.</li>
     <li>Use of gaze for human-AI interaction and agent coordination in multi-agent environments.</li>
     <li>Eye gaze used for AI, e.g., NLP, Computer Vision, RL, Explainable AI, Embodied AI, Trustworthy AI.</li>
+    <li>Ethics of Eye Gaze in AI</li>
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
 
@@ -64,6 +66,15 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 
 # Submissions 
+We have two tracks for submission a full, archival proceedings track and a non-archival, extended abstract track. Submissions to either track will undergo the same double-blind peer review.
+
+Full Accepted papers will be published as proceedings in the Proceedings for Machine Learning Research (PMLR). Full proceedings papers can be up to 9 pages and extended abstract papers can be upto 4 pages (excluding references and appendicies).
+
+Papers that are submitted to Gaze Meets ML proceedings track cannot be already published or under review in any other archival venue. 
+
+Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to Gaze Meets ML does not preclude publication of the same material in another archival venue (e.g. journal or conference).
+
+
 <ul>
     <li><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GMML">Open Review Submission Portal</a></li>
     <li> Submission format: anonymously submit full papers (8 or 9 pages) using:
@@ -133,7 +144,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 
 We are a MICCAI endorsed event: 
 <p align="left" width="100%">
-    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/miccai-logo.jpg"> 
+    <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/miccai-logo.jpg"> 
 </p>
 
 Workshop logo designed by Michael Chung
