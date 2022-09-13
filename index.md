@@ -136,7 +136,7 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 # Endorsements & Acknowledgements
 We are a MICCAI endorsed event: 
 <p align="left" width="100%">
-    <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/miccai-logo.jpg"> 
+    <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/MICCAI_logo_sm.eps"> 
 </p>
 
 Workshop logo designed by Michael Chung
