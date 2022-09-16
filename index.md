@@ -91,6 +91,11 @@ The workshop will feature two tracks for submission: a full, archival proceeding
     </li>
 </ul>
 
+# Keynote Speaker
+[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Juergen-Schmidhuber.jpg" width="200"/>](speakers#schmidhuber)
+
+Abstact: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation of this workshop, I made two overview web sites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html
+
 # Speakers <a name="invited_speakers"></a>
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Scott_Linderman_cropped.jpg" width="200"/>](speakers#linderman) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Gabriel_Silva_cropped.jpg" width="200"/>](speakers#silva) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Claudia-Mello-Thoms_cropped.jpg" width="200"/>](speakers#mellothoms) |   
@@ -134,9 +139,12 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 </ul>
 
 # Endorsements & Acknowledgements
-We are a MICCAI endorsed event: 
+- We are a MICCAI endorsed event:  
 <p align="left" width="100%">
     <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/MICCAI_logo_sm.jpg"> 
 </p>
 
-Workshop logo designed by Michael Chung
+- <p align="left" width="100%">
+    Eye gaze logo designed by Michael Chung
+    <img width="3%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png"
+</p>
