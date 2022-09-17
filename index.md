@@ -94,7 +94,7 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 # Keynote Speaker
 [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Juergen-Schmidhuber.jpg" width="500"/>](speakers#schmidhuber)
 
-Abstact: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation of this workshop, I made two overview web sites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html
+<!-- Abstact: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation of this workshop, I made two overview web sites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
 
 # Speakers <a name="invited_speakers"></a>
 
