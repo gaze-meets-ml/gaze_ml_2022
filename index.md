@@ -147,5 +147,4 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 </p>
 
 - <p align="left" width="100%">
-    Eye gaze logo designed by Michael Chung
-    <img width="3%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png"</p>
+    Eye gaze logo designed by Michael Chung</p>
