@@ -55,7 +55,7 @@ Topics of interest include but are not limited to the following:
 </ul>
 
 # Important Dates 
-<ul>Submission due: <b>26th September 2022</b></ul>
+<ul>Submission due: <b>29th September 2022</b></ul>
 <ul>Reviewing starts: <b>30th September 2022</b></ul>
 <ul>Reviewing ends: <b>10th October 2022</b></ul>
 <ul>Notification of acceptance: <b>14th October 2022</b> </ul>
