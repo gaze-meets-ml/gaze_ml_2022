@@ -10,7 +10,7 @@ navigation_weight: 1
     <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/eye-gaze-large.png"> 
 </p>
 
-We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. **The workshop will take place in-person at New Orleans!** We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). 
+We are excited to host the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. **The workshop will take place in-person at New Orleans!** We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/). For questions and further information please reach out to gaze.neurips@gmail.com 
 
 <b>We would like to thank our <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/sponsors/">sponsors</a> for their support. If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/call_for_sponsors/">here</a></b>.
 
