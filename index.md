@@ -59,7 +59,7 @@ Topics of interest include but are not limited to the following:
 <ul>Reviewing starts: <b>30th September 2022</b></ul>
 <ul>Reviewing ends: <b>16th October 2022</b></ul>
 <ul>Notification of acceptance: <b>20th October 2022</b> </ul>
-<ul>SlideLive presentation pre-recording for NeurIPS: <b>10th November 2022</b></ul>
+<ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <b>10th November 2022</b></ul>
 <ul>Camera ready paper: <b>20th November 2022</b></ul>
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
