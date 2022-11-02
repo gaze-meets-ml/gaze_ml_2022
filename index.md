@@ -142,7 +142,7 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 <li> Ken C. L. Wong (IBM Research) </li>
 <li> Maria Xenochristou (Stanford University) </li>
 <li> Megan T deBettencourt (University of Chicago) </li>
-<li> Mehdi Moradi (IBM Research) </li>
+<li> Mehdi Moradi (Google) </li>
 <li> Neerav Karani (MIT) </li>
 <li> Niharika Shimona D'Souza (IBM Research) </li>
 <li> Nishant Rai (Stanford University) </li>
