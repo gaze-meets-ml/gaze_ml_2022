@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: home
 # title: FAQs
 permalink: /faq/
-toc: true
 ---
 
 ## Common FAQs: 
