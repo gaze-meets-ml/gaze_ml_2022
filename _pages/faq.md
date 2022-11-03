@@ -2,7 +2,7 @@
 layout: page
 # title: FAQs
 permalink: /faq/
-hide: true
+toc: true
 ---
 
 ## Common FAQs: 
