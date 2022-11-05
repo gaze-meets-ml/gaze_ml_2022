@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Call For Sponsors
+# title: Call For Sponsors
 permalink: /call_for_sponsors/
 ---
 
