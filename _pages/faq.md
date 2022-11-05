@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: FAQs
+title: FAQs
 permalink: /faq/
 ---
 
