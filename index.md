@@ -97,7 +97,7 @@ The workshop will feature two tracks for submission: a full, archival proceeding
 For a list of commonly asked questions, please see <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/faq/">FAQs</a> 
 
 # Keynote Speaker
-[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Juergen-Schmidhuber_cropped.jpg" width="500"/>](speakers#schmidhuber)
+[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/Juergen-Schmidhuber_cropped.jpg" width="200"/>](speakers#schmidhuber)
 
 [**Jürgen Schmidhuber, Ph.D.**](speakers#schmidhuber)
 
