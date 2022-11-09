@@ -9,7 +9,7 @@ We want to congratulate the authors for the following accepted work to be presen
 
 ## Full Papers
 
-- Contrastive Representation Learning for Gaze Estimation (Oral)
+- **[Contrastive Representation Learning for Gaze Estimation (Oral)](https://openreview.net/forum?id=quv0Ypj32Pc)**
 - Electrode Clustering and Bandpass Analysis of EEG Data for Gaze Estimation (Oral)
 - Facial Composite Generation with Iterative Human Feedback (Oral)
 - Intention Estimation via Gaze for Robot Guidance in Hierarchical Tasks (Oral)
