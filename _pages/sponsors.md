@@ -48,4 +48,3 @@ We are excited to have the following organizations sponsor our workshop:
 
 <!-- |       |  | -->
 <!-- | ----------- | ----------- | -->
-
