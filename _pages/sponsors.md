@@ -25,9 +25,9 @@ We are excited to have the following organizations sponsor our workshop:
 </a> -->
 
 
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
     <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/gold.png"> 
-</p>
+</p>  -->
 
 
 <p align="center" width="100%">
