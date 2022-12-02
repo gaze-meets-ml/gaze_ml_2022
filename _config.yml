@@ -39,8 +39,7 @@ baseurl: "/gaze_ml_2022" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: Gaze_Meets_ML
-    #github: fastai
+    - { platform: twitter, user_url: "https://twitter.com/Gaze_Meets_ML" }
 
 # Set this to true to get LaTeX math equation support
 use_math: 
