@@ -33,6 +33,221 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
+# Workshop Schedule
+Webpage: https://neurips.cc/virtual/2022/workshop/49990
+
+All times are in Central Time 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bd63{color:#212529;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-1rwr{color:#008000;text-align:left;vertical-align:top}
+.tg .tg-av16{color:#212529;text-align:left;vertical-align:top}
+.tg .tg-ndde{color:#2294E0;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-w1dh{color:#212529;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-av16">Sat 7:30 a.m. - 8:00 a.m.</th>
+    <th class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63683" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Meet and Greet and Getting started</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63683" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Break)</span></th>
+    <th class="tg-bd63"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 8:00 a.m. - 8:10 a.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Opening Remarks (10 mins) Organizers</span> <span style="font-weight:400">(Opening Remarks)</span></td>
+    <td class="tg-bd63"></td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 8:10 a.m. - 8:55 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63682" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Learning gaze control, external attention, and internal attention since 1990-91</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63682" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Jürgen Schmidhuber</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 9:00 a.m. - 9:30 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63680" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Eye-tracking what's going on in the mind</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63680" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Tobias Gerstenberg</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 9:30 a.m. - 10:00 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63807" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Neural encoding and decoding of facial movements</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63807" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Scott Linderman</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 10:00 a.m. - 10:15 a.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Coffee Break</span> <span style="font-weight:400">(Break)</span></td>
+    <td class="tg-bd63"></td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 10:20 a.m. - 10:32 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57746" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Electrode Clustering and Bandpass Analysis of EEG Data for Gaze Estimation</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57746" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span><br></td>
+    <td class="tg-bd63">Ard Kastrati · Martyna Plomecka · Joël Küchler · Nicolas Langer · Roger Wattenhofer</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 10:32 a.m. - 10:44 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57751" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Modeling Human Eye Movements with Neural Networks in a Maze-Solving Task</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57751" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Jason Li · Nicholas Watters · Sandy Wang · Hansem Sohn · Mehrdad Jazayeri</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 10:44 a.m. - 10:56 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57755" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Intention Estimation via Gaze for Robot Guidance in Hierarchical Tasks</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57755" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Yifan SHEN · Xiaoyu Mo · Vytas Krisciunas · David Hanson · Bertram Shi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 10:56 a.m. - 11:08 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57759" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Facial Composite Generation with Iterative Human Feedback</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57759" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Florian Strohm · Ekta Sood · Dominike Thomas · Mihai Bace · Andreas Bulling</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 11:08 a.m. - 11:20 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57762" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Simulating Human Gaze with Neural Visual Attention</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57762" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Leo Schwinn · Doina Precup · Bjoern Eskofier · Dario Zanca</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 11:20 a.m. - 11:50 a.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Foveated Models of Visual Search and Medical Image Perception</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Miguel Eckstein</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:00 p.m. - 12:30 p.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Lunch</span> <span style="font-weight:400">(Lunch and Poster Walk-Around)</span></td>
+    <td class="tg-bd63"></td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57742" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Appearance-Based Gaze Estimation for Driver Monitoring</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57742" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Soodeh Nikan · devesh upadhyay</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57743" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Selection of XAI Methods Matters: Evaluation of Feature Attribution Methods for Oculomotoric Biometric Identification</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57743" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Daniel Krakowczyk · David Robert Reich · Paul Prasse · Sebastian Lapuschkin · Lena A. Jäger · Tobias Scheffer</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57744" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Time-to-Saccade metrics for real-world evaluation</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57744" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Tim Rolff · Niklas Stein · Markus Lappe · Frank Steinicke · Simone Frintrop</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57745" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Electrode Clustering and Bandpass Analysis of EEG Data for Gaze Estimation</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57745" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Ard Kastrati · Martyna Plomecka · Joël Küchler · Nicolas Langer · Roger Wattenhofer</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57747" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Skill, or Style? Classification of Fetal Sonography Eye-Tracking Data</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57747" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Clare Teng · Lior Drukker · Aris Papageorghiou · Alison Noble</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57748" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Decoding Attention from Gaze: A Benchmark Dataset and End-to-End Models</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57748" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Karan Uppal · Jaeah Kim · Shashank Singh</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57749" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Learning to count visual objects by combining "what" and "where" in recurrent memory</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57749" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Jessica Thompson · Hannah Sheahan · Christopher Summerfield</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57750" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Modeling Human Eye Movements with Neural Networks in a Maze-Solving Task</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57750" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster</span><br></td>
+    <td class="tg-bd63">Jason Li · Nicholas Watters · Sandy Wang · Hansem Sohn · Mehrdad Jazayeri</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57752" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Generating Attention Maps from Eye-gaze for the Diagnosis of Alzheimer's Disease</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57752" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Carlos Antunes · Margarida Silveira</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57753" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Do They Look Where They Go? Gaze Classification During Walking</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57753" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Gianni Bremer · Niklas Stein · Markus Lappe</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57754" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Intention Estimation via Gaze for Robot Guidance in Hierarchical Tasks</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57754" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Yifan SHEN · Xiaoyu Mo · Vytas Krisciunas · David Hanson · Bertram Shi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57756" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Comparing radiologists' gaze and saliency maps generated by interpretability methods for chest x-rays</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57756" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Ricardo Bigolin Lanfredi · Ambuj Arora · Trafton Drew · Joyce Schroeder · Tolga Tasdizen</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57757" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Integrating eye gaze into machine learning using fractal curves</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57757" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Robert Ahadizad Newport · Sidong Liu · Antonio Di Ieva</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57758" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Facial Composite Generation with Iterative Human Feedback</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57758" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Florian Strohm · Ekta Sood · Dominike Thomas · Mihai Bace · Andreas Bulling</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57760" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Federated Learning for Appearance-based Gaze Estimation in the Wild</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57760" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Mayar Elfares · Zhiming Hu · Pascal Reisert · Andreas Bulling · Ralf Küsters</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57761" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Simulating Human Gaze with Neural Visual Attention</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57761" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Leo Schwinn · Doina Precup · Bjoern Eskofier · Dario Zanca</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57763" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Contrastive Representation Learning for Gaze Estimation</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57763" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Swati Jindal · Roberto Manduchi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 12:30 p.m. - 1:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57765" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SecNet: Semantic Eye Completion in Implicit Field</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57765" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Poster)</span></td>
+    <td class="tg-bd63">Yida Wang · Yiru Shen · David Joseph Tan · Federico Tombari · Sachin S Talathi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:00 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63809" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Use of Machine Learning and Gaze Tracking to Predict Radiologists’ Decisions in Breast Cancer Detection</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63809" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Claudia Mello-Thoms</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 2:00 p.m. - 2:30 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63808" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Gabriel A. Silva Keynote</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse63808" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Keynote)</span></td>
+    <td class="tg-bd63">Gabriel Silva</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 2:30 p.m. - 3:30 p.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Breakout session</span> <span style="font-weight:400">(Discussion within onsite small groups on preselected themes)</span></td>
+    <td class="tg-bd63"></td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 3:30 p.m. - 3:45 p.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Coffee</span> <span style="font-weight:400">(Break)</span></td>
+    <td class="tg-bd63"></td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 3:45 p.m. - 3:57 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Contrastive Representation Learning for Gaze Estimation</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Swati Jindal · Roberto Manduchi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 3:57 p.m. - 4:09 p.m.</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57766" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SecNet: Semantic Eye Completion in Implicit Field</span></a><a href="https://neurips.cc/virtual/2022/workshop/49990#collapse57766" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Yida Wang · Yiru Shen · David Joseph Tan · Federico Tombari · Sachin S Talathi</td>
+  </tr>
+  <tr>
+    <td class="tg-1rwr"><br>Sat 4:45 p.m. - 5:00 p.m.</td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Closing remarks</span> <span style="font-weight:400">(Closing)</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
 # Call for Papers 
 We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
 science, or propose methods on integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
@@ -59,8 +274,9 @@ Topics of interest include but are not limited to the following:
 <ul>Reviewing starts: <s><b>30th September 2022</b></s></ul>
 <ul>Reviewing ends: <s><b>16th October 2022</b></s></ul>
 <ul>Notification of acceptance: <s><b>20th October 2022</b></s></ul>
-<ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <b>10th November 2022</b></ul>
-<ul>Camera ready paper: <b>20th November 2022</b></ul>
+<ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <s><b>10th November 2022</b></s></ul>
+<ul>Camera ready paper: <s><b>20th November 2022</b></s></ul>
+<ul>Workshop Date: <b>3rd December 2022</b></ul>
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 
