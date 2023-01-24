@@ -1,3 +1,6 @@
+
+> 12.28.2022 - Gaze meets ML workshop organizing committee blog post
+
 We are very delighted to share with the research community that the first <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop successfully took place at [NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=49990) in New Orleans on December 3rd, 2022. This one-day event was attended by more than 50 participants.
 
 
@@ -16,7 +19,3 @@ Thanks to the generous support of our main sponsor, [Gazepoint](https://www.gaze
 ![gp3](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/winners_gazepoint.jpg)
 
 The Gaze Meets ML workshop is focused on visual attention, an active multi-disciplinary area of research. With its first version, we believe that we managed to bring together diverse communities and build bridges of communication and understanding. Because of the strong interest and the potential for transformative research in visual attention and gaze-assisted machine learning, we are excited at the prospect of continuing this effort, hoping to strengthen this community and build the foundation for interdisciplinary impactful collaborations.
-
-With kind regards, 
-The organizing committee for the Gaze meets ML workshop
-December 28, 2022
