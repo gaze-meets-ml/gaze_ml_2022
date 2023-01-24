@@ -13,7 +13,6 @@ During the day we had the opportunity to have [speakers](https://gaze-meets-ml.g
 
 
 Overall, we had 7 oral presentations and 11 poster presentations covering various research areas of visual attention from utilizing gaze in federated settings to benchmark datasets that assess the locus of a participant's overt visual attention. The audience size allowed us to host a 1-hour breakout session. This offered a unique opportunity to have small group discussions on a variety of topics raised by the participants. Topics included *"Fairness in gaze estimation"*, *"Understanding peripheral visual attention"*, and *"Annotating through eye gaze: from explicit to implicit annotation"*. This direct involvement was a centerpiece to the nature of the workshop by enabling interaction and idea exchange between multi-disciplinary experts from the workshop audience. 
-![audience](/images/blog/audience.jpeg) 
 
 Thanks to the generous support of our main sponsor, [Gazepoint](https://www.gazept.com/), we were able to provide 2 high-end [GP3 Eye Trackers ](https://www.gazept.com/product/analysis-ultimate-bundle/) to the Best Paper Award winners! These eye trackers came along with the Gazepoint Analysis UX Edition software that allows researchers to collect multimodal data out-of-the-box including eye tracking, voice, and face recording.  
 ![gp3](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/winners_gazepoint.jpg)
