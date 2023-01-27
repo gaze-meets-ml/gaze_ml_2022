@@ -29,7 +29,6 @@ Overall, we had 7 oral presentations and 11 poster presentations covering variou
 
 Thanks to the generous support of our main sponsor, [Gazepoint](https://www.gazept.com/), we were able to provide 2 high-end [GP3 Eye Trackers ](https://www.gazept.com/product/analysis-ultimate-bundle/) to the Best Paper Award winners! These eye trackers came along with the Gazepoint Analysis UX Edition software that allows researchers to collect multimodal data out-of-the-box including eye tracking, voice, and face recording.  
 
-
-![gp3](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/winners_gazepoint.jpg)
+[<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/blog/winners_gazepoint.jpg"/>](https://gaze-meets-ml.github.io/gaze_ml_2022/images/blog/winners_gazepoint.jpg)
 
 The Gaze Meets ML workshop is focused on visual attention, an active multi-disciplinary area of research. With its first version, we believe that we managed to bring together diverse communities and build bridges of communication and understanding. Because of the strong interest and the potential for transformative research in visual attention and gaze-assisted machine learning, we are excited at the prospect of continuing this effort, hoping to strengthen this community and build the foundation for interdisciplinary impactful collaborations.
