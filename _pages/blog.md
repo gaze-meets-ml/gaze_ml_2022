@@ -5,7 +5,7 @@ toc: true
 permalink: /blog/
 ---
 
-> 12.28.2022 - Gaze meets ML workshop organizing committee blog post
+<!-- > 12.28.2022 - Gaze meets ML workshop organizing committee blog post -->
 
 We are very delighted to share with the research community that the first <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop successfully took place at [NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=49990) in New Orleans on December 3rd, 2022. This one-day event was attended by more than 50 participants.
 
