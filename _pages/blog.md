@@ -11,7 +11,8 @@ We are very delighted to share with the research community that the first <span 
 
 
 We had the honor to host [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) as a remote keynote speaker inaugurating the workshop and offering a history of the efforts on visual attention in machine learning. Prof. Schmidhuber started his talk with the attentive neural networks proposed in the 90s that mimic foveas and learn internal spotlights of attention in a fashion of early Transformer-like systems. He then continued the discussion by offering insights on the research related to representing percepts and action plans in hierarchical neural networks, at multiple levels of abstraction, and multiple time scales, which are key mechanisms of complex activities such as visual attention. 
-<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg"/>
+
+[<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg"/>](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg)
 
 <!-- ![keynote](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg) -->
 
