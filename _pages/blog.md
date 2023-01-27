@@ -18,7 +18,8 @@ We had the honor to host [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~ju
 
 
 During the day we had the opportunity to have [speakers](https://gaze-meets-ml.github.io/gaze_ml_2022/speakers/) present visual attention research from diverse backgrounds. Specifically, Associate Prof. Claudia Mello-Thoms from the University of Iowa presented work on eye tracking for radiology through a large study. Prof. Miguel P. Eckstein from the University of California, Santa Barbara offered insights on the interpretation of volumetric radiology images using eye tracking. Assistant Prof. Tobias Gerstenberg from Stanford University provided studies demonstrating how eye-tracking allows peek into the inner workings of the human mind. Finally, Assistant Prof. Scott W. Linderman from Stanford University presented neuroscience introduced participants to his research on relationship between face, eye movements and visual coding and how new ML methods for relating these neural and behavioral time series are needed to be developed.
-<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/speakers.jpg"/>
+
+[<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/speakers.jpg"/>](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/speakers.jpg)
 
 <!-- ![speakers](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/speakers.jpg) -->
 
