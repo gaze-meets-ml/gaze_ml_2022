@@ -16,7 +16,7 @@ We had the honor to host [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~ju
     <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/platinum.png"> 
 </p>
 
-[<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg"/>](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg)
+[<img src="https://github.com/gaze-meets-ml/gaze_ml_2022/images/blog/KeynoteJürgenSchmidhuber.jpg"/>](https://github.com/gaze-meets-ml/gaze_ml_2022/images/blog/KeynoteJürgenSchmidhuber.jpg)
 
 <!-- ![keynote](https://github.com/gaze-meets-ml/gaze_ml_2022/blob/master/images/blog/KeynoteJürgenSchmidhuber.jpg) -->
 
