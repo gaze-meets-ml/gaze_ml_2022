@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Blog
-toc: true
 permalink: /blog/
 ---
 
