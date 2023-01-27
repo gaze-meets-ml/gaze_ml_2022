@@ -1,3 +1,9 @@
+---
+layout: home
+title: Blog
+toc: true
+permalink: /blog/
+---
 
 > 12.28.2022 - Gaze meets ML workshop organizing committee blog post
 
